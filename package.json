@@ -1,7 +1,7 @@
 {
-	"name": "Vegito",
+	"name": "Abdulla",
 	"version": "30.0.0",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord don't forget miraiproject And Choru tiktokers.",
+	"description": "A simple Facebook Messenger Bot made by me(Abdulla) and my brother SpermLord don't forget miraiproject And Choru tiktokers.",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "pm2 kill && pm2 start index.js -i 1 --no-daemon",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ChoruTiktokers182/Choru-bypass/issues"
+		"url": "https://github.com/cyber-cat-abdulla/Choru-bypass/issues"
 	},
 	"keywords": [
 		"bot",
@@ -23,7 +23,7 @@
 		"miraipr0ject",
 		"Choru-tiktokers"
 	],
-	"author": "Choru TikTokers",
+	"author": "Abdulla Tech 49",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/ChoruTiktokers182/Choru-bypass/issues"
